@@ -52,4 +52,9 @@ Router --> |LAN 1| PC1
 Router --> |LAN 2| PC2
 Router --> |LAN 3| PC3
 Router --> |LAN 4| Printer
+
 ```
+
+Imagem da topologia utilizada no laboratório
+
+![]<img width="660" height="519" alt="Captura de tela 2026-03-09 152459" src="https://github.com/user-attachments/assets/061af4fa-8e72-4db1-84c7-5cfa97beb38a" />
